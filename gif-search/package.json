@@ -2,6 +2,7 @@
   "name": "gif-search",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://noteventryin.github.io/React-Gifs-Search-App/",
   "devDependencies": {
     "react-scripts": "4.0.3"
   },
