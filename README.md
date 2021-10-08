@@ -1,2 +1,2 @@
-# Git-Search-App
+# Gifs-Search-App
  
